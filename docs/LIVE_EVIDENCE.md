@@ -12,12 +12,12 @@ The lifecycle was executed with `genlayer-js@2.0.0-rc.1`. Every write used a Stu
 
 ## Transactions
 
-1. Register claim 1: `0xf345e75b37ac85a545c3646374ab462b8d1f1d86d4ca6b958eba3f3888e43870`
-2. Outsider revision rejection: `0x4d8bab1930a17c2bc171340193915b04487a639e8a954dd33984fa719c4c8560`
-3. Permissionless assessment of claim 1: `0x038834ed33a1f5be4866cdce29777e5f25bac60b9629f5dec9883d82a448b3b0`
-4. Stale revision rejection: `0xe8d7444ac7d1371888e4af77a2a447babb8b0bcc0a2bd00356ab25c5d57dba54`
-5. Owner supersession creating claim 2: `0xf6c11c4a21b71192dd17c1ce7c0cba49097849ee3e169a7fe54dd95b94dc103f`
-6. Permissionless assessment of claim 2: `0xb1e28974f8bf1183f06f0d1de2a51d0c0c9f606638d9edc6c292e40718fbb522`
+1. Register claim 1: [`0xf345e75b37ac85a545c3646374ab462b8d1f1d86d4ca6b958eba3f3888e43870`](https://explorer-studio-dev.genlayer.com/tx/0xf345e75b37ac85a545c3646374ab462b8d1f1d86d4ca6b958eba3f3888e43870)
+2. Outsider revision rejection: [`0x4d8bab1930a17c2bc171340193915b04487a639e8a954dd33984fa719c4c8560`](https://explorer-studio-dev.genlayer.com/tx/0x4d8bab1930a17c2bc171340193915b04487a639e8a954dd33984fa719c4c8560)
+3. Permissionless assessment of claim 1: [`0x038834ed33a1f5be4866cdce29777e5f25bac60b9629f5dec9883d82a448b3b0`](https://explorer-studio-dev.genlayer.com/tx/0x038834ed33a1f5be4866cdce29777e5f25bac60b9629f5dec9883d82a448b3b0)
+4. Stale revision rejection: [`0xe8d7444ac7d1371888e4af77a2a447babb8b0bcc0a2bd00356ab25c5d57dba54`](https://explorer-studio-dev.genlayer.com/tx/0xe8d7444ac7d1371888e4af77a2a447babb8b0bcc0a2bd00356ab25c5d57dba54)
+5. Owner supersession creating claim 2: [`0xf6c11c4a21b71192dd17c1ce7c0cba49097849ee3e169a7fe54dd95b94dc103f`](https://explorer-studio-dev.genlayer.com/tx/0xf6c11c4a21b71192dd17c1ce7c0cba49097849ee3e169a7fe54dd95b94dc103f)
+6. Permissionless assessment of claim 2: [`0xb1e28974f8bf1183f06f0d1de2a51d0c0c9f606638d9edc6c292e40718fbb522`](https://explorer-studio-dev.genlayer.com/tx/0xb1e28974f8bf1183f06f0d1de2a51d0c0c9f606638d9edc6c292e40718fbb522)
 
 ## Verified outcomes
 
