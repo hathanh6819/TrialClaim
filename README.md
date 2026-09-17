@@ -13,12 +13,12 @@ The contract establishes only this bounded proposition: **does the submitted sta
 
 The NCT identifier is a locator, not user-supplied truth. Validators build a fixed ClinicalTrials.gov API query with a bounded field projection, require one exact study identity, hash the fetched bytes, and semantically compare the statement with the complete projected primary-outcome set.
 
-## Why this is not QuakeSLA
+## Design boundaries
 
-- QuakeSLA derives deterministic eligibility from numeric event fields; TrialClaim performs bounded semantic comparison of natural-language claims.
-- QuakeSLA ends in one-time execution authorization; TrialClaim publishes an append-only public alignment assessment with no executor or payment consequence.
-- TrialClaim supports claim supersession and repeat snapshot assessment, preserving history as the external registry evolves.
-- Its positive label is explicitly limited to registered outcome alignment and cannot imply clinical efficacy or safety.
+- TrialClaim performs a bounded semantic comparison of natural-language claims against registered primary outcomes.
+- It publishes an append-only public alignment assessment with no executor, payment, efficacy, or treatment consequence.
+- Claim supersession and repeat snapshot assessment preserve history as the external registry evolves.
+- A positive label is limited to registered outcome alignment and cannot imply clinical efficacy or safety.
 
 ## State model
 
